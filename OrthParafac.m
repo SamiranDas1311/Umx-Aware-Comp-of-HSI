@@ -1,5 +1,3 @@
-﻿%   Compute weighted non-negative parallel factors with multiplicative updates.
-%
 %   P = OrthParafac(X,k) computes an estimate of the best rank-k PARAFAC
 %   model of a tensor X with nonnegative constraints on the factors.
 %   The code requires tensor toolbox version 2.6.
